@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Restaurant Booking Palette -->
+    <color name="primary">#2D1B59</color>
+    <color name="primary_light">#452B82</color>
+    <color name="primary_dark">#1B0F38</color>
+    <color name="accent">#08A9E0</color>
+    <color name="background">#F8F5FC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="success">#079B73</color>
+</resources>
